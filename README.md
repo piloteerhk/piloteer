@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @piloteerhk (Eric Leung)
+- 👋 Hi, I’m @piloteer (Eric Leung)
 - 👀 I’m interested in Product Marketing
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on any developing project
